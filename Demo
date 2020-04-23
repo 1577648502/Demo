@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+<div class="top">
+    <div class="topleft"></div>
+    <div class="daohangtiao">
+            <span>
+                 <div class="yaobang">
+                        <ul>
+                            <li><a href="">關於《Apex 英雄》</a></li>
+                            <li><a href="">常見問題</a></li>
+                            <li><a href="">PC 系統需求</a></li>
+                            <li><a href="">點數</a></li>
+                        </ul>
+                 </div>
+                <a class="topa" href="">關於<span  class="pre" href=""></span></a></span >
+
+            <span><a class="topa" href="">英雄<span  class="" href=""></span ></a></span>
+             <span>
+                 <div class="yaobang">
+                            <ul>
+                                <li><a href="">賽季 1</a></li>
+                                <li><a href="">賽季 2</a></li>
+                                <li><a href="">賽季 3</a></li>
+                                <li><a href="">賽季 4</a></li>
+                            </ul>
+                </div>
+                 <a class="topa" href="">賽季<span  class="pre" href=""></span ></a>
+
+            </span>
+            <span><a class="topa" href="">戰鬥通行證<span  class="" href=""></span ></a></span>
+            <span>
+                <div class="yaobang">
+                        <ul>
+                            <li><a href="">最新消息</a></li>
+                            <li><a href="">遊戲更新</a></li>
+                            <li><a href="">最新的媒體消息</a></li>
+                        </ul>
+                 </div>
+                <a class="topa" href="">新聞<span  class="pre" href=""></span ></a>
+            </span>
+            <span><a class="topa" href="">論壇<span  class="" href=""></span ></a></span>
+            <span>
+                <div class="yaobang">
+                        <ul>
+                            <li><a href="">參賽</a></li>
+                            <li><a href="">社群錦標賽規則</a></li>
+                        </ul>
+                    </div>
+                <a class="topa" href="">參賽<span  class="pre" href=""></span ></a>
+            </span>
+            <span><a class="topa" href="">商店<span  class="" href=""></span ></a></span>
+    </div>
+    <div class="topright">
+        <span>
+        <div class="yaobang">
+            <ul>
+                <li  class="middle-bk1">
+                   <a href="https://origin-a.akamaihd.net/Origin-Client-Download/origin/live/194908/ApexLegendsInstaller.exe">PC Origin</a>
+                </li>
+                <li  class="middle-bk1" >
+                       <a href="">PlayStation® 4</a>
+                </li>
+                <li  class="middle-bk1">
+                      <a href="">Xbox One</a>
+                </li>
+            </ul>
+        </div>
+        <h2>免费下载*</h2>
+    </span>
+</div>
+<div class="apex-play">
+    <!--autoplay自动播放  muted静音  loop重复播放-->
+    <video class="video" muted src="video/apex.mp4" autoplay="autoplay" loop value="opaque">
+
+    </video>
+</div>
+<div class="middle">
+    <img src="imgs/2.svg">
+    <div>
+        <h2>選擇你的角色、 召集你的小隊、 讓大家見識英雄們的實力</h2>
+    </div>
+    <div>
+        <h6>適用於 PlayStation 4、Xbox One 與 PC Origin。</h6>
+    </div>
+    <div class="middle-bk" style=" margin: 40px 0 0 400px; ">
+        <div>
+            <a href="">立即游玩</a>
+        </div>
+    </div>
+</div>
+</body>
+</html>
